@@ -1,0 +1,35 @@
+<data>
+    <Oven>
+        <price>100.0</price>
+        <min>2.0</min>
+        <max>3.0</max>
+        <reg>5</reg>
+    </Oven>
+    <TeaPot>
+        <price>58.0</price>
+        <capacity>3.0</capacity>
+        <voltage>4.0</voltage>
+    </TeaPot>
+    <Refrigerator>
+        <price>156.0</price>
+        <min>2.0</min>
+        <max>3.0</max>
+        <height>5</height>
+    </Refrigerator>
+    <Oven>
+        <price>152.0</price>
+        <min>3.0</min>
+        <max>6.0</max>
+        <reg>7</reg>
+    </Oven>
+    <TeaPot>
+        <price>187.0</price>
+        <capacity>2.0</capacity>
+        <voltage>3.0</voltage>
+    </TeaPot>
+    <TeaPot>
+        <price>199.0</price>
+        <capacity>3.0</capacity>
+        <voltage>3.6</voltage>
+    </TeaPot>
+</data>
